@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f56a633-3263-4f0b-be0d-b61cceac27f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +111,7 @@
       <workItem from="1657296618698" duration="806000" />
       <workItem from="1657413477656" duration="9137000" />
       <workItem from="1657496050807" duration="2973000" />
-      <workItem from="1657546181691" duration="3403000" />
+      <workItem from="1657546181691" duration="4327000" />
     </task>
     <servers />
   </component>
