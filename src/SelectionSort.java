@@ -14,8 +14,6 @@ public class SelectionSort {
         }
 
         for (int j = 0; j < arr.length; j++) {
-
-
             int min = arr[j];
             int index = j;
             int temp = 0;
@@ -23,26 +21,15 @@ public class SelectionSort {
                 if (min > arr[i]) {
                     min = arr[i];
                     index = i;
-
                 }
             }
-
             temp = arr[j];
             arr[j] = arr[index];
             arr[index] = temp;
-
         }
-
-
         System.out.print("\nAfter Selection Sort\n");
-
         for (int x : arr) {
-
             System.out.print(x + " ");
         }
-
-
     }
-
-
 }

@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class FactorialUsingRecursion {
 
-
     public static int iterativeFactorial(int x) {
         if (x == 0) {
             return 1;
@@ -14,17 +13,12 @@ public class FactorialUsingRecursion {
         return factorial;
     }
 
-
     public static int recursionFactorial(int x) {
         if (x == 0) {
             return 1;
         }
         return x * recursionFactorial(x - 1);
-
-
     }
-
-
     public static void main(String[] args) {
         System.out.println("Factorial using Iteration and Recursion");
         System.out.println("Enter a number: ");
