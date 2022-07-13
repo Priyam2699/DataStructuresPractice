@@ -2,6 +2,7 @@ package list;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Vector;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
@@ -10,7 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        List<Employee> list = new ArrayList();
+        List<Employee> list = new Vector();
         list.add(new Employee("Priyam", "Dua", 1));
         list.add(new Employee("Iqbal", "Bhullar", 455));
         list.add(new Employee("Gurjinder", "Bhatti", 784));

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f56a633-3263-4f0b-be0d-b61cceac27f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/list/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactorialUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactorialUsingRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +127,7 @@
       <workItem from="1657496050807" duration="2973000" />
       <workItem from="1657546181691" duration="11377000" />
       <workItem from="1657637334600" duration="6766000" />
-      <workItem from="1657722134897" duration="376000" />
+      <workItem from="1657722134897" duration="946000" />
     </task>
     <servers />
   </component>
