@@ -5,8 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-
-        ArrayStack stack = new ArrayStack(10);
+        LinkedListStack stack = new LinkedListStack();
         stack.push(new Employee(1,"Priyam","Dua"));
 
         stack.push(new Employee(2,"Iqbal","Bhullar"));
@@ -15,13 +14,25 @@ public class Main {
 
         stack.push(new Employee(4,"Randeep","Saini"));
 
+
+        System.out.println("Before Pop");
         stack.printStack();
 
-        System.out.println(stack.peek());
+        System.out.println("The top element that is peeked is"+stack.peek());
+
+
 
         stack.pop();
 
-        System.out.println(stack.peek());
+        System.out.println("After Pop");
+        stack.printStack();
+
+
+
+
+
+
+
 
 
 
