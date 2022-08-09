@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f56a633-3263-4f0b-be0d-b61cceac27f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/queues/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queues/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queues/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queues/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queues/LinkedListQueueMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       <recent name="DoublyLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.queues.Main">
+  <component name="RunManager" selected="Application.LinkedListQueueMain">
     <configuration name="DoublyLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoublyLinkedList.Main" />
       <module name="test" />
@@ -98,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stacks.Main" />
+    <configuration name="LinkedListQueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queues.LinkedListQueueMain" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stacks.*" />
+          <option name="PATTERN" value="queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.linkedListMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stacks.Main" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.*" />
+          <option name="PATTERN" value="stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListQueueMain" />
         <item itemvalue="Application.queues.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.JdkLinkedList.Main" />
         <item itemvalue="Application.DoublyLinkedList.Main" />
-        <item itemvalue="Application.linkedListMain" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,8 @@
       <workItem from="1659453080012" duration="8932000" />
       <workItem from="1659716019259" duration="725000" />
       <workItem from="1659993188696" duration="1728000" />
-      <workItem from="1659999806712" duration="4667000" />
+      <workItem from="1659999806712" duration="4909000" />
+      <workItem from="1660067884316" duration="1453000" />
     </task>
     <servers />
   </component>
