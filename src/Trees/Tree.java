@@ -9,17 +9,34 @@ public class Tree {
 
         if (root == null) {
 
-
             root = new TreeNode(value);
-
 
         } else {
 
             root.insert(value);
         }
 
+    }
+
+
+    public void traverseInOrder()
+    {
+
+        if(root!=null)
+        {
+
+        root.traverseInOrder();
+
+
+        }
+
 
     }
+
+
+
+
+
 
 
 }

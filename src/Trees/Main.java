@@ -19,6 +19,10 @@ public class Main {
         tree.insert(32);
 
 
+
+        tree.traverseInOrder();
+
+
     }
 
 
