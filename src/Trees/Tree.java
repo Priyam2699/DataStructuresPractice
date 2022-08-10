@@ -58,24 +58,62 @@ public class Tree {
     }
 
 
-
-    public int max()
-    {
+    public int max() {
 
 
-        if(root==null)
-        {
+        if (root == null) {
 
 
             return Integer.MAX_VALUE;
-        }
-
-
-        else {
+        } else {
 
 
             return root.max();
         }
+    }
+
+
+    public void delete(int value) {
+
+
+        root = delete(root, value);
+
+
+    }
+
+
+    private TreeNode delete(TreeNode subRoot, int value) {
+
+        if (subRoot == null) {
+
+            return subRoot;
+        }
+
+
+        if (value < subRoot.getData()) {
+
+            subRoot.setLeftChild(delete(subRoot.getLeftChild(), value));
+
+        } else if (value > subRoot.getData()) {
+
+            subRoot.setRightChild(delete(subRoot.getRightChild(), value));
+        } else {
+
+            if (subRoot.getLeftChild() == null) {
+
+                return subRoot.getRightChild();
+
+            } else if (subRoot.getRightChild() == null) {
+
+                return subRoot.getLeftChild();
+            }
+
+        }
+
+
+        return subRoot;
+
+
     }
 
 

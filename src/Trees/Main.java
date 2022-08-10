@@ -32,11 +32,11 @@ public class Main {
 
 
 
-        Tree t1 = new Tree();
+        tree.delete(30);
+
+        tree.traverseInOrder();
 
 
-        System.out.println(t1.min());
-        System.out.println(t1.max());
 
 
     }
