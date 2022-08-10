@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f56a633-3263-4f0b-be0d-b61cceac27f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hashTable/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashTable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashTable/SimpleHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashTable/HashMapJDKMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +69,13 @@
       <recent name="DoublyLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hashTable.Main">
-    <configuration name="JdkLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdkLinkedList.Main" />
+  <component name="RunManager" selected="Application.HashMapJDKMain">
+    <configuration name="HashMapJDKMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashTable.HashMapJDKMain" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JdkLinkedList.*" />
+          <option name="PATTERN" value="hashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapJDKMain" />
         <item itemvalue="Application.hashTable.Main" />
         <item itemvalue="Application.LinkedListQueueMain" />
         <item itemvalue="Application.queues.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.JdkLinkedList.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +168,7 @@
       <workItem from="1659993188696" duration="1728000" />
       <workItem from="1659999806712" duration="4909000" />
       <workItem from="1660067884316" duration="6367000" />
-      <workItem from="1660147180952" duration="115000" />
+      <workItem from="1660147180952" duration="2732000" />
     </task>
     <servers />
   </component>
