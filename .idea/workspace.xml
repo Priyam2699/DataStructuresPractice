@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f56a633-3263-4f0b-be0d-b61cceac27f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/searchingAlgorithms/BinarySearchByRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchingAlgorithms/BinarySearchByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchingAlgorithms/BinarySearchByRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,7 @@
       <recent name="DoublyLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchByRecursion">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BinarySearchByRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="searchingAlgorithms.BinarySearchByRecursion" />
       <module name="test" />
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashTable.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashTable.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.Main" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashTable.*" />
+          <option name="PATTERN" value="Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BinarySearchByRecursion" />
         <item itemvalue="Application.searchingAlgorithms.BinarySearchByIteration" />
         <item itemvalue="Application.searchingAlgorithms.LinearSearch" />
         <item itemvalue="Application.HashMapJDKMain" />
-        <item itemvalue="Application.hashTable.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +171,7 @@
       <workItem from="1659993188696" duration="1728000" />
       <workItem from="1659999806712" duration="4909000" />
       <workItem from="1660067884316" duration="6367000" />
-      <workItem from="1660147180952" duration="7588000" />
+      <workItem from="1660147180952" duration="10408000" />
     </task>
     <servers />
   </component>
