@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f56a633-3263-4f0b-be0d-b61cceac27f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/searchingAlgorithms/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchingAlgorithms/BinarySearchByIteration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashTable/HashMapJDKMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashTable/HashMapJDKMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +69,13 @@
       <recent name="DoublyLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinearSearch">
-    <configuration name="HashMapJDKMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashTable.HashMapJDKMain" />
+  <component name="RunManager" selected="Application.BinarySearchByIteration">
+    <configuration name="BinarySearchByIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchingAlgorithms.BinarySearchByIteration" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashTable.*" />
+          <option name="PATTERN" value="searchingAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchingAlgorithms.LinearSearch" />
+    <configuration name="HashMapJDKMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashTable.HashMapJDKMain" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="searchingAlgorithms.*" />
+          <option name="PATTERN" value="hashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="queues.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queues.Main" />
+    <configuration name="searchingAlgorithms.LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchingAlgorithms.LinearSearch" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queues.*" />
+          <option name="PATTERN" value="searchingAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.BinarySearchByIteration" />
+        <item itemvalue="Application.searchingAlgorithms.LinearSearch" />
         <item itemvalue="Application.HashMapJDKMain" />
         <item itemvalue="Application.hashTable.Main" />
         <item itemvalue="Application.LinkedListQueueMain" />
-        <item itemvalue="Application.queues.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +168,7 @@
       <workItem from="1659993188696" duration="1728000" />
       <workItem from="1659999806712" duration="4909000" />
       <workItem from="1660067884316" duration="6367000" />
-      <workItem from="1660147180952" duration="3608000" />
+      <workItem from="1660147180952" duration="5989000" />
     </task>
     <servers />
   </component>
