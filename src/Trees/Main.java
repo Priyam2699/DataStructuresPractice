@@ -22,6 +22,22 @@ public class Main {
 
         tree.traverseInOrder();
 
+        System.out.println("\n"+tree.get(7));
+        System.out.println(tree.get(27));
+        System.out.println(tree.get(15));
+
+
+        System.out.println("Minimum value in the tree is : "+tree.min());
+        System.out.println("Max value in the tree is : "+tree.max());
+
+
+
+        Tree t1 = new Tree();
+
+
+        System.out.println(t1.min());
+        System.out.println(t1.max());
+
 
     }
 
