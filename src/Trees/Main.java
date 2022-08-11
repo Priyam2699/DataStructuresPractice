@@ -1,5 +1,7 @@
 package Trees;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -35,6 +37,16 @@ public class Main {
         tree.delete(30);
 
         tree.traverseInOrder();
+
+
+        int[] arr = {1,2,3};
+
+        System.out.println(arr.length);
+
+        arr = Arrays.copyOf(arr,arr.length*2);
+
+
+
 
 
 
